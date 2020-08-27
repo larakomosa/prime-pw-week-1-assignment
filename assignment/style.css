@@ -38,10 +38,10 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  height: 240px;
-  width: 190px;
-  border: 10px solid #505;
-  padding: 5px;}
+  height: 300px;
+  width: 240px;
+  border: 15px solid #505;
+  padding: 10px;}
 
 /* Change the font-family of your list */
 li{
@@ -51,6 +51,5 @@ li{
 
   span {
    font-size: 24px;
-   font-style: italic;
    color: teal;
   }
