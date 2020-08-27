@@ -1,33 +1,45 @@
 /* Give your page a fun background color */
 body{
-  background-color: lavender
+  background-color: #dad8dc;
 }
 /* Make the header and footer a different color from the background */
 header{
-background-color:silver;
-color: #505;
+  background-color:#9aaab3;
 }
 
 footer {
-  background-color: silver;}
+  background-color: #9aaab3;
+}
 
+hr {
+  width: 96%;
+  height: 8px;
+  margin-left:auto;
+  margin-right: auto;
+  background-color:#463d52;
+  margin-top: 25px;
+  margin-bottom:25px;
+}
 /* Align the h1 containing your name in the center of the header*/
 h1 {
-  text-align:center;
-  font-family: cursive;
-  font-size: 55px
+  text-align: center;
+  font-family: verdana;
+  color: #463d52;
+  font-size: 60px;
 }
+
 h2{
   text-align:center;
   font-family: verdana;
-  color: teal;
-  font-size: 30px;}
+  color: #685c78;
+  font-size: 40px;
+}
 
 /* Make your p tag a different color and italic */
 p {
   text-align: center;
-  color: indigo;
-  font-family:cursive;
+  color: #685c78;
+  font-family: cursive;
   font-style: italic;
   font-size: 30px
  }
@@ -40,16 +52,20 @@ img {
   width: 40%;
   height: 300px;
   width: 240px;
-  border: 15px solid #505;
+  border: 15px solid #677780;
   padding: 10px;}
 
 /* Change the font-family of your list */
 li{
+  margin-left: 2%;
   font-size:20px;
-  font-family: sans-serif;
-  color: gray}
+  font-family: georgia;
+  color: #394e57;
+  text-align: left;}
 
-  span {
-   font-size: 24px;
-   color: teal;
-  }
+span {
+  margin-left:2%;
+  margin-right:2%;
+  font-size: 20px;
+  font-family: verdana;
+  color:#7f97a1;

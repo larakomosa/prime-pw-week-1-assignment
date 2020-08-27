@@ -16,8 +16,8 @@ touch new-file.js
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
 # 8 - Why would you run the command 'git status'?
-to see the status of GIT inside a specific folder.  This is detect untracked files that have not been saved.
+To see the status of files inside a specific folder.  This is detect modified files that have not been saved.
 # 9 - What does the command 'git add .' do?
 Add everything that is in get to the current folder.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git commit -m "new-file.text"  (in the quotes, detail your changes for specific file)
+git commit -m 'new-file.text'  (in the '', detail your changes for specific file)
