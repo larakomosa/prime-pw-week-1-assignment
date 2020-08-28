@@ -52,12 +52,13 @@ img {
   width: 40%;
   height: 300px;
   width: 240px;
-  border: 15px solid #677780;
-  padding: 10px;}
+  border: 10px solid #677780;
+  padding: 5px;}
 
 /* Change the font-family of your list */
 li{
   margin-left: 2%;
+  margin-right: 2%;
   font-size:20px;
   font-family: georgia;
   color: #394e57;
