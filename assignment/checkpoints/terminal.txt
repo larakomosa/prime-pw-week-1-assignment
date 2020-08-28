@@ -12,7 +12,8 @@ mkdir new-folder
 5a: Expect to see no files listed.  You will remain in the same empty folder.
 5b: The files within that directory will be listed in alphabetical order
 # 6 - What is a quick way to create a new file?
-touch new-file-name.js (after you name the file, you designate what type of file it is by typing a "." and then including the type of file you want. Example: The types I used in my assignment were .js .css .html .txt and .jpeg)
+touch new-file-name.js 
+(after you name the file, you designate what type of file it is by typing a "." and then including the type of file you want. Example: The types I used in my assignment were .js .css .html .txt and .jpeg)
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
 # 8 - Why would you run the command 'git status'?
